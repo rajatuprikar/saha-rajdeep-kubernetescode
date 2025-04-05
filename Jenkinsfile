@@ -9,7 +9,7 @@ node {
 
     stage('Build image') {
   
-       app = docker.build("rajat091293/rajat")
+       app = docker.build("rajat091293/test")
     }
 
     stage('Test image') {
