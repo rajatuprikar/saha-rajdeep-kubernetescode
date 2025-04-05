@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: flaskdemo
-        image: raj80dockerid/test:latest
+        image: rajat091293/rajat:latest
         resources: {}
 
 ---
